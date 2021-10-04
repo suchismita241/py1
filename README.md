@@ -9,3 +9,4 @@ def outerFun(a, b):
 
 result = outerFun(5, 10)
 print(result)
+print("this is the number")
