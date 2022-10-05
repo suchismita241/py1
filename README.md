@@ -1,4 +1,3 @@
-# py1
 def outerFun(a, b):
     a = int(input("enter a: "))
     b = int(input("enter b: "))
